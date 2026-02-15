@@ -4,16 +4,16 @@ Assignment: #1
 """
 
 # string
-gym_member = "Alex Alliton"  # str
+gym_member = "Alex Alliton"
 
 # float
-preferred_weight_kg = 20.5  # float
+preferred_weight_kg = 20.5
 
 # Integer
-highest_reps = 25  # int
+highest_reps = 25
 
 # Boolean
-membership_active = True  # bool
+membership_active = True 
 
 
 # Dictionary
